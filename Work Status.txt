@@ -1,0 +1,16 @@
+Word Completed:
+1. Home page basics are completed. [28-11-2023]
+  - The Home page is created with basic texts.
+  - Linked texts and buttons are included to go to necessary websites.
+
+Works Pending:
+1. Need to make essential websites that are linked to the homepage.
+2. Make a website for Buying Food
+    - Make an iterative and transition food viewing webpage.
+    - Should consist of the basics/common features of every food website.
+3. Make a website for Sharing Food
+    - Should provide the users with the location where they will donate, and people of which place will be fed from their leftovers.
+    - User have to share the location for the delivery man to pick up the leftovers/donated food.
+    - According to the amount and condition of the food, discount vouchers will be provided, which can be used to purchase food from the website.
+4. Make a website To Donate Money 
+    - Should have options for the users to see where their money will be used. They can donate in a variety of sectors including "Orphanages", "Starvation", "Old Age Homes" etc.
