@@ -2,7 +2,7 @@ body {
     background: #fcbb42;
     margin-top: 20px;
 
-    background-image: url(bg.png);
+    background-image: url(images/bg.png);
     background-repeat: no-repeat;
     background-position: center; background-attachment: fixed;
     background-size: cover;
