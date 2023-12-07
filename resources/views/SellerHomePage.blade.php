@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Seller Home Page</title>
+	<link rel="stylesheet" href="{{ asset('css/SellerHomePageStyles.css') }}">
+</head>
+<body>
+	<div class= "banner">
+		<div class="navbar">
+			<img src = "images/logo.png" class="logo">
+			<ul>
+				<li><a href="SellerProfile.blade.php"> Seller Profile </a></li>
+			</ul>
+		</div>
+		<div class="content">
+			<h1>WELCOME BACK SELLER!</h1>
+			<div class="button">
+				<button type="button"><span></span>Join As A Seller</button>
+				<button type="button"><span></span>Contact US</button>
+			</div>
+		</div>
+	</div>
+
+
+</body>
+</html>

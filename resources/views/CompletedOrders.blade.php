@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ asset('css/CompletedOrdersStyles.css') }}">
+    <title>Completed Orders</title>
+</head>
+<body>
+    <div class= "banner">
+		<div class="navbar">
+			<button><a href="SellerHomePage.blade.php"><img src = "images/logo.png" class="logo"></a></button>
+            <button><a href="SellerProfile..blade.php"><h2>Back</h2></a></button>
+		</div>
+    <div class="orders-container">
+        <h1>Completed Orders</h1>
+        
+        <div class="order">
+            
+            <p>Order Number: #01</p>
+            <p>Customer Name: Mr.X</p>
+            <p>Mobile Number: 017--------</p>
+            <p>Address: Dhaka</p>
+        </div>
+        <div class="order">
+            <p>Order Number: #02</p>
+            <p>Customer Name: Mr.Y</p>
+            <p>Mobile Number: 019--------</p>
+            <p>Address: Dhaka</p>
+        </div>
+    </div>
+    </div>
+</body>
+</html>
