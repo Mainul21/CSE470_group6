@@ -40,3 +40,21 @@ Route::get('/donateMoneyPage', function () {
 Route::get('/BuyFoodPage', function () {
     return view('BuyFoodPage');
 });
+Route::get('/SellerProfile', function () {
+    return view('SellerProfile');
+});
+Route::get('/SellerHomePage', function () {
+    return view('SellerHomePage');
+});
+Route::get('/CreatePost', function () {
+    return view('CreatePost');
+});
+Route::get('/CompletedOrders', function () {
+    return view('CompletedOrders');
+});
+Route::get('/SellerLogin', function () {
+    return view('SellerLogin');
+});
+Route::get('/SellerSignup', function () {
+    return view('SellerSignup');
+});
