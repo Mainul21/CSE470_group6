@@ -1,0 +1,116 @@
+body {
+    background: #4682B4;
+    margin-top: 20px;
+
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-position: center; background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.ui-w-80 {
+    width : 80px !important;
+    height: auto;
+}
+
+.btn-default {
+    border-color: #4682B4;
+    background  : #4682B4;
+    color       : #4682B4;
+}
+
+label.btn {
+    margin-bottom: 0;
+}
+
+.btn-outline-primary {
+    border-color: #4682B4;
+    background  : #4682B4;
+    color       : #4682B4;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.text-light {
+    color: #4682B4 !important;
+}
+
+.btn-facebook {
+    border-color: #4682B4;
+    background  : #4682B4;
+    color       : #4682B4;
+}
+
+.btn-instagram {
+    border-color: #4682B4;
+    background  : #4682B4;
+    color       : #4682B4;
+}
+
+.card {
+    background-clip: padding-box;
+    box-shadow     : 0 1px 4px #4682B4;
+}
+
+.row-bordered {
+    overflow: hidden;
+}
+
+.account-settings-fileinput {
+    position  : absolute;
+    visibility: hidden;
+    width     : 1px;
+    height    : 1px;
+    opacity   : 0;
+}
+
+.account-settings-links .list-group-item.active {
+    font-weight: bold !important;
+}
+
+html:not(.dark-style) .account-settings-links .list-group-item.active {
+    background: transparent !important;
+}
+
+.account-settings-multiselect~.select2-container {
+    width: 100% !important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #4682B4!important;
+}
+
+.light-style .account-settings-links .list-group-item.active {
+    color: #4682B4 !important;
+}
+
+.material-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #4682B4 !important;
+}
+
+.material-style .account-settings-links .list-group-item.active {
+    color: #4682B4 !important;
+}
+
+.dark-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #4682B4 !important;
+}
+
+.dark-style .account-settings-links .list-group-item.active {
+    color: #4682B4 !important;
+}
+
+.light-style .account-settings-links .list-group-item.active {
+    color: #4682B4 !important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #4682B4 !important;
+}
